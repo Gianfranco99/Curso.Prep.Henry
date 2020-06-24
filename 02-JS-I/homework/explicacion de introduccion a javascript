@@ -1,0 +1,5 @@
+Variables : sirve como una forma para almacenar algo a lo que le podemos dar el valor que querramos, en java script se utiliza la palabra var y el nombre que la querramos dar a la variable seguido del = para darle el valor que querramos
+Strings : cualquier texto entre comillas es un "strings"
+Funciones , Argumentos ,Return : las funciones permite calcular el valor de las variables por asi decirlo, se escirbe la palabra function y al lado el nombre de la funcion que querramos darle , despues entre () estan los Argumentos y el Return se utliza para devolver el valor de la funcion
+Las declaraciones IF se utila como un SI pasa tal cosa devuelve tal valor ,if pasa tal otra cosa devuelve otro valor
+Valores boleanos : en javascript los valores boleanos se utilizan para determinar true o false
